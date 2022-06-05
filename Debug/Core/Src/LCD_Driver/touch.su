@@ -1,0 +1,8 @@
+touch.c:85:9:BSP_TS_Init	24	static
+touch.c:115:9:BSP_TS_DeInit	4	static
+touch.c:125:9:BSP_TS_ITConfig	32	static
+touch.c:150:9:BSP_TS_ITGetStatus	8	static
+touch.c:161:9:BSP_TS_GetState	104	static
+touch.c:281:9:BSP_TS_Get_GestureId	24	static
+touch.c:325:6:BSP_TS_ITClear	8	static
+touch.c:343:9:BSP_TS_ResetTouchData	24	static

@@ -1,0 +1,5 @@
+LIS3MDL.c:22:9:lis3mdl_read_reg	40	static
+LIS3MDL.c:37:6:lis3mdl_write_reg	32	static
+LIS3MDL.c:46:6:lis3mdl_readDirection	24	static
+LIS3MDL.c:58:6:lis3mdl_readTemperature	24	static
+LIS3MDL.c:68:6:lis3mdl_Init	8	static

@@ -1,0 +1,9 @@
+ts.c:11:13:I2Cx_MspInit	48	static
+ts.c:54:13:I2Cx_Init	16	static
+ts.c:74:13:I2Cx_Error	16	static
+ts.c:83:26:I2Cx_WriteMultiple	48	static
+ts.c:104:26:I2Cx_ReadMultiple	48	static
+ts.c:128:6:TS_IO_Init	8	static
+ts.c:140:6:TS_IO_Write	24	static
+ts.c:151:9:TS_IO_Read	32	static
+ts.c:165:6:TS_IO_Delay	16	static

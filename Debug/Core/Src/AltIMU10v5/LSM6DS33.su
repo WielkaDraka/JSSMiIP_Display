@@ -1,0 +1,5 @@
+LSM6DS33.c:24:9:lsm6ds33_read_reg	40	static
+LSM6DS33.c:39:6:lsm6ds33_write_reg	32	static
+LSM6DS33.c:48:6:lsm6ds33_readGyro	24	static
+LSM6DS33.c:60:6:lsm6ds33_readAccel	24	static
+LSM6DS33.c:78:6:lsm6ds33_Init	8	static

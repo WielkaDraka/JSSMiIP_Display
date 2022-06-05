@@ -1,0 +1,11 @@
+LPS25H.c:22:9:lps25h_read_reg	40	static
+LPS25H.c:37:6:lps25h_write_reg	32	static
+LPS25H.c:47:6:lps25h_Init	8	static
+LPS25H.c:57:6:lps25h_readPressure	24	static
+LPS25H.c:69:6:lps25h_readPressureInchesHg	8	static
+LPS25H.c:79:6:lps25h_readPressureMillibars	8	static
+LPS25H.c:89:6:lps25h_readTemperature	24	static
+LPS25H.c:100:6:lps25h_readTemperatureF	8	static
+LPS25H.c:110:6:lps25h_readTemperatureC	8	static
+LPS25H.c:126:6:lps25h_pressureToAlitudeFeet	16	static
+LPS25H.c:143:6:lps25h_pressureToAlitudeMeters	16	static

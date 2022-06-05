@@ -1,0 +1,16 @@
+lcd.c:42:10:LCD_get_x_size	16	static
+lcd.c:51:10:LCD_get_y_size	16	static
+lcd.c:61:6:LCD_clear	24	static
+lcd.c:77:6:LCD_draw_point	32	static
+lcd.c:95:6:LCD_draw_line	48	static
+lcd.c:173:6:LCD_draw_circle	24	static
+lcd.c:192:6:LCD_draw_Hline	24	static
+lcd.c:210:6:LCD_draw_Vline	24	static
+lcd.c:228:6:LCD_draw_Rectangle	32	static
+lcd.c:245:6:LCD_draw_text	64	static
+lcd.c:281:6:LCD_draw_text_rle	72	static
+lcd.c:328:6:LCD_draw_image	40	static
+lcd.c:354:6:LCD_draw_image_rle	48	static
+lcd.c:389:6:LCD_SDRAM_init	24	static
+lcd.c:449:10:LCD_init	16	static
+lcd.c:463:10:LCD_update	120	static
