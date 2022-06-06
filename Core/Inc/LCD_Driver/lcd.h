@@ -1,8 +1,8 @@
 /*
  * lcd.h
  *
- *  Created on: 27.05.2022
- *      Author: Łukasz Pyzik
+ *  Created on: 27.05.2021
+ *      Author: mariusz
  */
 
 #ifndef LCD_H_

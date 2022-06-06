@@ -1,9 +1,9 @@
-app.c:31:6:app_Init	8	static
-app.c:41:6:app_loop	8	static
+app.c:32:6:app_Init	8	static
+app.c:43:6:app_loop	8	static
 app.c:48:6:on_lcd_draw	16	static
 app.c:63:6:HAL_TIM_PeriodElapsedCallback	24	static
-app.c:86:6:logger_chart	24	static
-app.c:94:6:dashboard_chart	48	static
-app.c:115:6:logger_record	16	static
-app.c:120:6:dashboard_record	64	static
-app.c:151:6:first_display	24	static
+app.c:109:6:logger_chart	16	static
+app.c:114:6:dashboard_chart	48	static
+app.c:137:6:logger_record	16	static
+app.c:147:6:dashboard_record	64	static
+app.c:178:6:first_display	24	static
