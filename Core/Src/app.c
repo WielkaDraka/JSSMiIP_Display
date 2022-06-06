@@ -138,8 +138,8 @@ void logger_record(uint16_t x, uint16_t y)
 {
 	if(x < 100 && y < 60)
 	{
-		display_value = 0;
-		log_temp = 0;
+		//display_value = 0;
+		//log_temp = 0;
 		state = DISPLAY_CHART;
 	}
 

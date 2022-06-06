@@ -1,8 +1,8 @@
 /*
  * lcd.c
  *
- *  Created on: 27.05.2021
- *      Author: mariusz
+ *  Created on: 27.05.2022
+ *      Author: Lukasz Pyzik
  */
 
 #include <stddef.h>
