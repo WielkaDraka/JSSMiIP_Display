@@ -1,10 +1,3 @@
-/*
- * lcd.h
- *
- *  Created on: 27.05.2022
- *      Author: Lukasz Pyzik
- */
-
 #ifndef LCD_H_
 #define LCD_H_
 

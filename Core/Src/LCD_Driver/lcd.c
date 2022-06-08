@@ -1,10 +1,3 @@
-/*
- * lcd.c
- *
- *  Created on: 27.05.2022
- *      Author: Lukasz Pyzik
- */
-
 #include <stddef.h>
 #include <string.h>
 #include "stm32f7xx_hal.h"
